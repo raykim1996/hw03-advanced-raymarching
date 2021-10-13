@@ -1,5 +1,19 @@
 # CIS 566 Homework 3: Advanced Raymarched Scenes
 
+## Submission Details
+- Name: Ray DongHo Kim
+- PennKey: kdongho
+- External Resources:
+  - https://www.youtube.com/watch?v=Cfe5UQ-1L9Q&t=10179s&ab_channel=InigoQuilez
+  - https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
+  - https://www.shadertoy.com/view/ssdSR2
+- Live Demo: https://raykim1996.github.io/hw02-raymarching-sdfs/
+- I used various sdf models: ellipsoid, torus, capsule, cappedCone and CSG operations like smoothUnion and smoothSubtraction to create the main model. I also used ease_in_out to animate the character's head movement.
+- Reference Image:
+  - <img height="360" src="img/ref_imge.png">
+- Screenshot:
+  - <img height="360" src="img/HW03-001.png">
+
 ## Objective
 - Gain experience with signed distance functions
 - Experiment with animation curves
