@@ -10,9 +10,9 @@
 - Live Demo: https://raykim1996.github.io/hw03-advanced-raymarching/
 - I used various sdf models: ellipsoid, torus, capsule, cappedCone and CSG operations like smoothUnion and smoothSubtraction to create the main model. I also used ease_in_out to animate the character's head movement.
 - Reference Image:
-  - <img height="360" src="img/ref_image.png">
+  - <img height="480" src="img/ref_image.png">
 - Screenshot:
-  - <img height="360" src="img/HW03-001.png">
+  - <img height="480" src="img/HW03-001.png">
 
 ## Objective
 - Gain experience with signed distance functions
